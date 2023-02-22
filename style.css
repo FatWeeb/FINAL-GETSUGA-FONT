@@ -1,0 +1,30 @@
+.footer
+{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    color: azure;
+    bottom: 0;
+}
+
+canvas
+{
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px purple;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px #4c8777;
+}
+
+.note
+{
+    font-size: 15px;
+    color: white;
+}
+
